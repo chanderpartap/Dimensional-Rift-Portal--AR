@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Unity Asset Unlocks - Bedroom\Scripts\System\PoolSystem.cs" />
     <Compile Include="Assets\Unity Asset Unlocks - Bedroom\Scripts\System\Controller.cs" />
+    <Compile Include="Assets\Scripts\DimensionalRift.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Shaders\StencilTest.shader" />
