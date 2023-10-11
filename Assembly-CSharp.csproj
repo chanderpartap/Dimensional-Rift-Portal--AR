@@ -60,6 +60,10 @@
     <Compile Include="Assets\Unity Asset Unlocks - Bedroom\Scripts\System\Controller.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Shaders\StencilTest.shader" />
+    <None Include="Assets\Shaders\DimensionalRift.shader" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
